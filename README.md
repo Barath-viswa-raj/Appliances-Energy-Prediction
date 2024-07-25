@@ -130,24 +130,8 @@ High variance leads to overfitting, while high bias causes underfitting
 
 Before PCA
 
-![before pca](images/bias-variance-trade-off-before-pca.jpg)
-
-
-After PCA
-
-![after pca](images/bias-variance-trade-off-after-pca.jpg)
-
 The bias-variance tradeoff aims to find the sweet spot between bias and variance. Since the values of the models are very close, a conclusion cannot be made about the model performance solely based on this. Additional accuracy metrics should be considered to conclude the best-performing model.
 
-## Results Summary
-Before PCA
-
-![Before PCA](images/conclusion_before_pca.png)
-
-
-After PCA
-
-![After PCA](images/conclusion_after_pca.png)
 
 # Conclusion
 Concluding remarks about the project and model performance.
